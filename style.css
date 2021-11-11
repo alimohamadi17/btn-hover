@@ -1,11 +1,15 @@
 body{
     background:rgb(179, 214, 143);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 button{
-    background-color: rgb(148, 243, 148);
+    background-color: rgb(18, 128, 18);
     border-radius: 10px;
-    padding: 10px 20px;
-    border: 1px solid gold;
+    padding: 20px 30px;
+    border: 2px solid transparent;
     cursor: pointer;
 }
